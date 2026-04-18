@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Restaurant Review Dashboard")
+st.title("my project Dashboard")
 
 data = {
     "Review": [
